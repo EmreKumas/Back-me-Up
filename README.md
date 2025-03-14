@@ -1,4 +1,7 @@
 # Back me Up
+
+This is an addon mod for Better than Wolves. Join BTW discord to check out other mods as well: [BTW Forum](https://wiki.btwce.com/index.php?title=Main_Page)
+
 ## Features:
 - Backups and loads your world without leaving the game
 - All configurable:
@@ -18,5 +21,3 @@
 
 ### Changelog (v2.1.0)
 - This version ensures that whenever the quick save key is pressed, all current state (world, player data) gets saved in that exact moment. Previously, it was just backing up the autosaved world folder which is about every 45 seconds.
-
-Join BTW discord to check out other mods as well: [BTW Forum](https://wiki.btwce.com/index.php?title=Main_Page)

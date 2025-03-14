@@ -22,6 +22,7 @@ bin/
 
 # fabric
 run/
+build_BTW/
 
 # macos
 *.DS_Store
